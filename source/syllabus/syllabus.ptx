@@ -32,11 +32,11 @@ ability to handle abstract problems.
               3
             </p>
           </li>
-          <li>
+          <!-- <li>
             <title>Course Designations and Attributes</title>
             <p>
               <dl>
-                <!-- <li>
+                <li>
                   <title>Breadth</title>
                   <p>
                     Natural Science
@@ -53,11 +53,11 @@ ability to handle abstract problems.
                   <p>
                     Counts as Liberal Arts and Science credit in L&amp;S
                   </p>
-                </li>-->
+                </li>
               </dl>
             </p>
-          </li>
-          <li>
+          </li> -->
+          <!-- <li>
             <title>Requisite</title>
             <p>
               MATH 217 or 221
@@ -68,7 +68,7 @@ ability to handle abstract problems.
             <p>
               In-person
             </p>
-          </li>  
+          </li>   -->
         </dl>
       </p>
       <paragraphs>
