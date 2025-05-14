@@ -1,9 +1,9 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "math240-syllabus",
+  "id": "math190-syllabus",
   "level": "1",
-  "url": "math240-syllabus.html",
+  "url": "math190-syllabus.html",
   "type": "Article",
   "number": "",
   "title": "Spring 2025 Syllabus",
