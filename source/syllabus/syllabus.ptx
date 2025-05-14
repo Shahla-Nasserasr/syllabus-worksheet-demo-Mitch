@@ -36,7 +36,7 @@ ability to handle abstract problems.
             <title>Course Designations and Attributes</title>
             <p>
               <dl>
-                <li>
+                <!-- <li>
                   <title>Breadth</title>
                   <p>
                     Natural Science
@@ -47,7 +47,7 @@ ability to handle abstract problems.
                   <p>
                     Intermediate
                   </p>
-                </li>
+                </li> -->
                 <li>
                   <title>L&amp;S Credit</title>
                   <p>
