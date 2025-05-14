@@ -6,7 +6,7 @@
 
   <article xml:id="math190-syllabus">
     <title>Fall 2025 Syllabus</title>
-    <subtitle>MATH190</subtitle>
+    <subtitle>MATH190 Section 01 -- Discrete Mathematics for Computing</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
@@ -19,7 +19,12 @@
           <li>
             <title>Course Description</title>
             <p>
-              Basic concepts of logic, sets, partial order and other relations, and functions. Basic concepts of mathematics (definitions, proofs, sets, functions, and relations) with a focus on discrete structures: integers, bits, strings, trees, and graphs. Propositional logic, Boolean algebra, and predicate logic. Mathematical induction and recursion. Invariants and algorithmic correctness. Recurrences and asymptotic growth analysis. Fundamentals of counting.
+              This course introduces students to ideas and techniques from discrete mathematics that
+are widely used in Computer Science. Students will learn about the fundamentals of
+propositional and predicate calculus, set theory, relations, recursive structures and
+counting. This course will help increase students' mathematical sophistication and their
+ability to handle abstract problems.
+
             </p>
           </li>
           <li>
